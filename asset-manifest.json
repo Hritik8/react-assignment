@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-assignment/static/css/main.6d1b210b.css",
+    "main.js": "/react-assignment/static/js/main.75bf075e.js",
+    "static/js/453.384e48fd.chunk.js": "/react-assignment/static/js/453.384e48fd.chunk.js",
+    "static/media/vertical_hamburger.svg": "/react-assignment/static/media/vertical_hamburger.23d8d7bfd0e59feceaaba9485bae8a0a.svg",
+    "static/media/horizontal_hamburger.svg": "/react-assignment/static/media/horizontal_hamburger.2c0ae0a06757f3d153b3e22c30ca45f2.svg",
+    "static/media/star_icon.svg": "/react-assignment/static/media/star_icon.9c8ef9aa3d9ef51c72df3d037069ce8a.svg",
+    "static/media/dashboard_logo.svg": "/react-assignment/static/media/dashboard_logo.5e979fb73ca869f6d28bd2ee7bf1414f.svg",
+    "static/media/main_logo.svg": "/react-assignment/static/media/main_logo.b127761b9ba8d52b5beeb4c985edd6c6.svg",
+    "static/media/logo_icon.svg": "/react-assignment/static/media/logo_icon.d545c74bde6fc97e13fed3660e7a0be5.svg",
+    "index.html": "/react-assignment/index.html",
+    "static/media/arrow_icon.svg": "/react-assignment/static/media/arrow_icon.2c7e86da53a4e7a382de679a6278a359.svg",
+    "static/media/plus_icon.svg": "/react-assignment/static/media/plus_icon.f0cf4305bd8b41f469211b081f0bc0c3.svg",
+    "static/media/bottom_icon.svg": "/react-assignment/static/media/bottom_icon.53e3419ee31d2a4cabbde2ac53bd990b.svg",
+    "main.6d1b210b.css.map": "/react-assignment/static/css/main.6d1b210b.css.map",
+    "main.75bf075e.js.map": "/react-assignment/static/js/main.75bf075e.js.map",
+    "453.384e48fd.chunk.js.map": "/react-assignment/static/js/453.384e48fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d1b210b.css",
+    "static/js/main.75bf075e.js"
+  ]
+}
