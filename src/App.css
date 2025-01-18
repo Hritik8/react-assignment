@@ -1,0 +1,40 @@
+.mainContainer{
+  background-color: rgb(244, 244, 244);
+}
+
+.app-container {
+  display: flex;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-content {
+  display: flex;
+  margin-left: 60px;
+}
+
+.content-left {
+  margin-left: 15px;
+  padding-left: 20px;
+  box-sizing: border-box;
+}
+.content-right {
+  margin-left: 15px;  
+  box-sizing: border-box;
+}
+
+.content-left {
+  border-right: 1px solid #ddd;
+}
+
+.content-right {
+  background-color: #fefefe;
+}
+
+*,
+*::before,
+*::after {
+   margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+}

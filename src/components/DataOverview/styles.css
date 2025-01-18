@@ -1,0 +1,156 @@
+.data-overview {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.row-col-data {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.row-data,
+.col-data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(244, 244, 244);
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.data-icon {
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+.data-title {
+  font-size: 12px;
+  color: #001f63;
+}
+
+.data-value {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.meta-data {
+  flex: 1;
+  background-color: rgb(244, 244, 244);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.meta-title {
+  font-weight: 600;
+  font-size: 12px;
+  color: #001f63;
+  margin-bottom: 10px;
+}
+
+.meta-table {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.meta-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.meta-label {
+  font-weight: normal;
+  color: #333;
+  text-align: right;
+  padding-right: 15px;
+  font-size: 12px;
+}
+
+.meta-value {
+  color: #555;
+  font-size: 12px;
+}
+
+.sla-reports {
+  flex: 1;
+  background-color: rgb(244, 244, 244);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  width: 235px;
+}
+
+.sla-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.sla-bar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.sla-bar {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.sla-progress {
+  height: 10px;
+  background-color: #4caf50;
+  border-radius: 35px;
+}
+
+.sla-score {
+  font-weight: bold;
+}
+
+.test-report {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  margin-bottom: 5px;
+}
+
+.score-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.score {
+  font-size: 12px;
+}
+
+.test-count {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.test-bar {
+  margin-top: 10px;
+}
+
+.test-progress {
+  height: 10px;
+  background-color: #4caf50;
+  border-radius: 35px;
+}
+
+a {
+  text-decoration: none;
+}
